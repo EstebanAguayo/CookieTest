@@ -1,0 +1,4 @@
+[core]
+    remote = test
+['remote "test"']
+    url = ../1y8XaLS5AfOyFKiFAAHfe6M41E3-t0ZsC
