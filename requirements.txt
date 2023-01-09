@@ -1,0 +1,7 @@
+click==8.0.4
+matplotlib
+numpy==1.23.5
+python-dotenv==0.21.0
+setuptools==65.5.0
+torch==1.12.1
+torchvision==0.13.1
