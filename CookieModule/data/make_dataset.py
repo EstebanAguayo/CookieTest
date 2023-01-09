@@ -20,7 +20,7 @@ def main(input_filepath, output_filepath):
 
     train_images = []
     train_labels = []
-    for i in range(5):
+    for i in range(8):
         data = np.load(f"{input_filepath}/train_{i}.npz")
         [train_images.append(img) for img in data["images"]]
         [train_labels.append(label) for label in data["labels"]]
